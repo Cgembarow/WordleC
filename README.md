@@ -9,6 +9,7 @@ INSTALLING
 clone this repo:
 ```
 git clone https://github.com/Cgembarow/WordleC
+cd WordleC
 ```
 
 run the game: 
